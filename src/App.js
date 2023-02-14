@@ -11,7 +11,7 @@ const inputChanged = (e) => {
 }
 
   return (
-    <div className="App" style={{color:'red'}}>
+    <div className="App" style={{color:'red', alignContent:'left'}}>
         <h1>My website headline</h1>
         <p>Heres some bs text too</p>
         <form>
