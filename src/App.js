@@ -22,7 +22,7 @@ const inputChanged = (e) => {
           <input placeholder='Password' name='password' value={profile.password} onChange={inputChanged}/>
         </div>
         <div>
-          <input value='Press teh button' type='submit'/>
+          <input value='Press the button' type='submit'/>
         </div>
         </form>
     </div>
