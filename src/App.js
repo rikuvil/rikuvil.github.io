@@ -14,7 +14,6 @@ const inputChanged = (e) => {
     <div className="App" style={{color:'red', alignContent:'left'}}>
         <h1>My website headline</h1>
         <p>Heres some bs text too</p>
-        <p>Mitäs antsa stana</p>
         <form>
         <div>  
           <input placeholder='Username' name='user' value={profile.user} onChange={inputChanged}/>
